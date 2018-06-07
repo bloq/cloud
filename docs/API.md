@@ -1,4 +1,4 @@
-# Bloq Cloud API
+# BloqCloud API
 
 A blockchain REST and web socket API service.
 
