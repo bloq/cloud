@@ -2,6 +2,16 @@
 
 A blockchain REST and web socket API service.
 
+## Per-chain service endpoints
+
+### Bitcoin - BTC
+
+The following is the toplevel host for the Bitcoin chain and network.
+
+```
+	https://btc.bloqapi.net/
+```
+
 ## API HTTP Endpoints
 
 ### Block
