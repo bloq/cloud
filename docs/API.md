@@ -1,6 +1,23 @@
-# Bloq Cloud API
+# BloqCloud API
 
-A blockchain REST and web socket API service.
+A blockchain REST and WebSocket API service.
+
+## Per-chain service endpoints
+
+### Bitcoin - BTC
+
+The following is the toplevel host for the Bitcoin chain and network.
+
+```
+	https://btc.bloqapi.net/
+```
+
+## Compatibility
+
+The REST and WebSocket APIs are compatible with [Bitpay Insight
+API](https://github.com/bitpay/insight-api) as of June 2018.  The
+BloqCloud API will not break compatibility with Insight-June-2018,
+though many compatible extensions will be added over time.
 
 ## API HTTP Endpoints
 
